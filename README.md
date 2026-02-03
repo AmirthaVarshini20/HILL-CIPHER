@@ -85,3 +85,5 @@ int main() {
 <img width="834" height="239" alt="image" src="https://github.com/user-attachments/assets/17a94f9e-c29c-4539-9f2e-e49206cdf80d" />
 
 ## RESULT
+
+Thus the C program to implement the hill cipher substitution techniques is completed and successfully executed
